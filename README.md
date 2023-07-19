@@ -6,6 +6,7 @@ Image source: <a href="https://www.scnsoft.com/blog/sales-analytics"> neenopal.c
 
 ## Introduction 
 
+	Sales reps’s performances![image](https://github.com/Weilin-Liao1/sql_projects/assets/82377749/af88696b-8daa-402e-89cb-b92bd7f36afa)
 
 
 
