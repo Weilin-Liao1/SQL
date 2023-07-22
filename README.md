@@ -1,10 +1,8 @@
-# SQL Projects 
+# SQL Projects for Data Analysis
 
 <img width="350" alt="sales analytics" src="https://github.com/Weilin-Liao1/sql_projects/assets/82377749/a5f606e9-5507-48d0-b13f-9eb4009a729a">
 
 Image source: <a href="https://www.scnsoft.com/blog/sales-analytics"> neenopal.com </a>
-
-SQL Projects for Data Analysis:
 
 Data analytics helps businesses improve performance, work more efficiently, maximize profit, and make smarter decisions. SQL is a powerful tool widely used in data analysis and serves as the standard language for storing, retrieving, and working with data in databases. 
 
