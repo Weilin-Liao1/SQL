@@ -31,8 +31,11 @@ A higher AOV indicates more revenue per order, suggesting that customers are spe
 
 
 **Data:**
-It is usually to find data sets in public data as they are usually proprietary. 
-However, the <a href="https://shorturl.at/ijw49 "> kaggle.com </a> provided this dataset which is provided by Microsoft's AdventureWorks sample databases. This is a xxx data set that contains transactions that occurred between xxxx andxxx for xxx(non-store online retail registered in the UK). The company mainly sells xxxx (unique all-occasion gifts). Many client companies are wholesalers.  
+
+Finding publicly available datasets is often challenging due to their restricted access.
+However, the <a href="https://shorturl.at/ijw49 "> kaggle.com </a> provides a dataset sourced from Microsoft's AdventureWorks sample databases. 
+This dataset contains all the transactions from 2017 to 2020 of a US multinational manufacturing company specializing in the production and distribution of bicycles and bicycle peripherals and components.
+ 
 
 **MySQL Version:** xxx (3.8.3)
 
