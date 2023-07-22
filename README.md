@@ -29,7 +29,7 @@ A higher AOV indicates more revenue per order, suggesting that customers are spe
 
 <img width="275" alt="YoY sales   AOVs" src="https://github.com/Weilin-Liao1/sql_projects/assets/82377749/680a63fc-371e-4484-a23b-3e54c8980142">
 
-
+## Data and MySQL Version
 **Data:**
 
 Finding publicly available datasets is often challenging due to their restricted access.
