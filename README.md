@@ -37,5 +37,5 @@ However, the <a href="https://shorturl.at/ijw49 "> kaggle.com </a> provides a da
 This dataset contains all the transactions from 2017 to 2020 of a US multinational manufacturing company specializing in the production and distribution of bicycles and bicycle peripherals and components.
  
 
-**MySQL Version:** xxx (3.8.3)
+**MySQL Version:** 8.0.31
 
