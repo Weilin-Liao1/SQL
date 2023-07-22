@@ -4,7 +4,9 @@
 
 Image source: <a href="https://www.scnsoft.com/blog/sales-analytics"> neenopal.com </a>
 
-Data analytics helps businesses improve performance, work more efficiently, maximize profit, and make smarter decisions. SQL is a powerful tool widely used in data analysis and serves as the standard language for storing, retrieving, and working with data in databases. 
+Data analytics helps businesses in optimizing performance, operating more efficiently, maximizing profits, and making informed decisions. Structured Query Language (SQL) is a powerful and essential tool for data analytics, serving as the standard language for storing, retrieving, and manipulating data in databases.
+
+When compared to Excel, which is user-friendly and flexible, users can easily view data and calculations. However, Excel can only handle around 1 million rows of data, and complex operations may significantly slow down the system.  In contrast, databases can load over 10 million rows of data in under a minute, and data is safer in SQL storage compared to Excel, where accidental data deletion is less likely. Therefore, SQL databases are excellent options for storing, manipulating, and analyzing large amounts of data.
 
 ## Sales Performance
 
